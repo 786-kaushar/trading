@@ -1,0 +1,21 @@
+.ficon-box:hover span {
+    color: #054d9a !important;
+}
+.recent_box2 .title
+{
+    background-color: #054d9a !important;
+}
+.ulockd-bgthm {
+    background-color: #054d9a !important;
+}
+.ulockd-btn-thm2 {
+    background-color: #054d9a;
+    border-color: #054d9a;
+}
+.text-thm2 {
+    color: #054d9a !important;
+}
+.feature-box .title, .feature-box .overlay, .shop-box .overlay, .ulockd-frst-divider::before, .gallery-thumb .layer, .gallery-thumb-l2 .layer, .overlay-tc9:before {
+    background-color: rgba(5, 77, 154, 0.9);
+}
+
