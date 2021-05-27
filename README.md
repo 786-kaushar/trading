@@ -1,2 +1,0 @@
-"# tradingdesign" 
-"# tradingdesign" 
