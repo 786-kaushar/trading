@@ -3,11 +3,11 @@
 			<div class="row">
 				<div class="col-md-3 col-lg-5">
   					<div class="welcm-ht">
-						<a href="index.html" class="ulockd-main-logo"><img src="images/header-logo2.png" alt="header-logo2.png"></a>
+						<a href="index.php" class="ulockd-main-logo"><img src="images/icon/bitcoinlogo.svg" alt="header-logo2.png" style="height:73px;width:246px"></a>
   					</div>
 				</div>
 				<div class="col-md-9 col-lg-7 ulockd-pad390">
-					<ul class="list-inline tac-smd ulockd-mrgn60 pull-right fn-smd">
+					<ul class="list-inline tac-smd  pull-right fn-smd">
 						<li>
 							<div class="ulockd-ohour-info tac-smd mb30-xxsd">
 								<div class="ulockd-icon pull-left fn-smd text-thm2"><span class="fa fa-clock-o"></span></div>
@@ -20,7 +20,7 @@
 							<div class="ulockd-ohour-info tac-smd mb30-xxsd">
 								<div class="ulockd-icon pull-left fn-smd text-thm2"><span class="fa fa-envelope"></span></div>
 								<div class="ulockd-info">
-									<p class="ulockd-addrss"><strong>Mail Us</strong> <br> demo@webmail.com</p>
+									<p class="ulockd-addrss"><strong>Mail Us</strong> <br>support@capitaltrades.com</p>
 								</div>
 							</div>
 						</li>

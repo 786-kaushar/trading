@@ -19,3 +19,7 @@
     background-color: rgba(5, 77, 154, 0.9);
 }
 
+.feature-box:hover .overlay .icon:before, .social-linked a:hover, .social-linked-two a:hover, .icon_box:hover .icon i, .icon_box:hover .icon span, .icon_box.style2:hover, .form-group.ulockd-contact-btn:hover button, .ulockd-tag-list-details a:hover, .recent_box .over-layer a:hover, .ficon-box:hover .ficon, .ulockd-tag-list-details li:hover a, .fancybox-gallery-slider .owl-prev:hover, .fancybox-gallery-slider .owl-next:hover, .service_box .icon:before, .service_box .icon:after, .pricing_table:hover .pt_header, .pricingTable:hover .pricingTable-header > .price-value, .team-icon a:hover, .partner-slider .owl-dot.active span, .partner-slider .owl-dot:hover span, .partner-slider .owl-dot:focus span, .footer-font-icon a:hover, .nav.features-tab>li>a:focus, .nav.features-tab>li>a:hover, .features-tab>li.active>a:before, .features-tab>li.active>a, .features-tab>li.active>a:focus, .features-tab>li.active>a:hover, .title-bottom:before {
+    background-color: #054d9a;
+}
+

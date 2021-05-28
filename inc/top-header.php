@@ -16,7 +16,7 @@
   				</div>
   				<div class="col-md-4">
   					<div class="welcm-ht text-cente ulockd-mrgn1215">
-						<p class="color-white">Welcome To <strong> FinancePress</strong> - Business And Finance</p>
+						<p class="color-white">Welcome To <strong>Capital Trades</strong> - Businesses And Finance</p>
   					</div>
   				</div>
   				<div class="col-md-4">
